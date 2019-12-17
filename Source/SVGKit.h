@@ -17,14 +17,7 @@
 
 #import "SVGKDefine.h"
 
-
 // MARK: - Framework Header File Content
-
-@interface SVGKit : NSObject
-
-+ (void) enableLogging;
-
-@end
 
 //! Project version number for SVGKitFramework-iOS.
 FOUNDATION_EXPORT double SVGKitFramework_VersionNumber;
